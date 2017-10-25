@@ -1,5 +1,4 @@
-file 'default www' do
+file 'default www' do 
 	path '/var/www/html/index.html'
-	content 'What up Breh'
+	content 'Whats up Bro, youve got this!!!'
 end
-
